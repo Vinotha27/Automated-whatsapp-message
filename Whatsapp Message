@@ -1,3 +1,0 @@
-!pip install pywhatkit
-import pywhatkit
-pywhatkit.sendwhatmsg("+917010683112","This is a automate whatsapp Message,Your pending payment of Rs.17,000,If you already paid the due ignore this message",11,8)
